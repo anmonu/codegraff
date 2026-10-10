@@ -51,3 +51,5 @@ spec/lean/lake-manifest.json
 
 # session-local stores
 .engram/
+# local read
+read/
